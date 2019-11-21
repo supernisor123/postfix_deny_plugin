@@ -3,7 +3,8 @@ is a script that if the mail sending to blocking server, u can save deferred blo
 
 # environment:
 
-1.linux 
+1.linux  
+
 2.postfix mail server that sends mail to others.it can prevent the status that has blocked IP mail resend.
 
 # How to use:
